@@ -96,8 +96,7 @@ p{
     background-color: #65B9BF;
 }
 .testimonial-image {
-    width: 130px;
-    border-radius: 100%;
+    width: 100%;
     margin: 20px;
 }
 .carousel-item {
@@ -142,7 +141,7 @@ p{
 #cta {
     text-align: center;
     background-color: #388186;
-    margin-top: 50px;
+    /* margin-top: 50px; */
     padding: 7% 25% 2% 25%;
 }
 .cta-text {
